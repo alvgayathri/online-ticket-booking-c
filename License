@@ -1,0 +1,10 @@
+
+---
+
+### **Steps to Upload on GitHub**  
+```sh
+git init
+git add .
+git commit -m "Initial commit - Online Ticket Booking System"
+git remote add origin https://github.com/your-username/online-ticket-booking-c.git
+git push -u origin main
